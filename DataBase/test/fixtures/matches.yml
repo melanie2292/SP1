@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  game_date: 2014-04-02
+  stage: 1
+  status: 1
+  local_team_id_id: 
+  visitor_team_id_id: 
+  score: 1
+  winer_id_id: 
+  loser_id_id: 
+  tie: false
+  group_id_id: 
+  stadium_id_id: 
+
+two:
+  game_date: 2014-04-02
+  stage: 1
+  status: 1
+  local_team_id_id: 
+  visitor_team_id_id: 
+  score: 1
+  winer_id_id: 
+  loser_id_id: 
+  tie: false
+  group_id_id: 
+  stadium_id_id: 
